@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [AIM-Harvard/pyradiomics](https://github.com/AIM-Harvard/pyradiomics), the research library for extracting quantitative features from medical images and masks. It supports 2D and 3D region-based features and voxel-based feature maps, including intensity, shape, and texture measurements, with extraction settings and provenance recorded in the output.
+
+Fork work includes upstream proposals for [localhost-bound notebook examples (#957)](https://github.com/AIM-Harvard/pyradiomics/pull/957) and [incomplete test-data download handling (#959)](https://github.com/AIM-Harvard/pyradiomics/pull/959). Both were open on 17 October 2026 and are tracked on their linked feature branches.
+
+Use the [official installation guide](https://pyradiomics.readthedocs.io/en/latest/installation.html) and [documentation](https://pyradiomics.readthedocs.io/) for feature definitions and parameter choices. [Compare the default branch with upstream](https://github.com/jdotc1/pyradiomics/compare/AIM-Harvard:master...jdotc1:master). The upstream research-use limitation, citations, examples, and license remain below.
+
+---
+
 # pyradiomics v3.1.0
 
 \<-- ## Build Status
